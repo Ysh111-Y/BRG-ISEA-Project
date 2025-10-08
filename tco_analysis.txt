@@ -1,0 +1,20 @@
+# Total Cost of Ownership (TCO) Analysis - AWS vs Azure
+## AWS EC2 Pricing (Singapore Region)
+- Instance: t2.micro (1 vCPU, 1GB RAM)
+- Cost: ~$9.50 USD per month
+- Storage: EBS General Purpose - $0.10 per GB-month
+- Data Transfer: $0.09 per GB out
+## Azure VM Pricing (Southeast Asia Region)
+- Instance: B1s (1 vCPU, 1GB RAM)
+- Cost: ~$8.76 USD per month
+- Storage: Managed Disks - $0.08 per GB-month
+- Data Transfer: $0.087 per GB out
+## Cost Comparison
+- AWS: ~$114/year
+- Azure: ~$105/year
+- Difference: Azure is approximately 8% cheaper
+## Factors Considered
+- Compute instances
+- Storage costs
+- Data transfer fees
+- Regional pricing differences
